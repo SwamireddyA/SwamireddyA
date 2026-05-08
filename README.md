@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Swami Reddy Ailuri 👋
 
-<!--
-**SwamireddyA/SwamireddyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate focused on Java backend development, SQL systems, and full-stack applications.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Java
+- Spring Boot
+- SQL & MySQL
+- REST APIs
+- Git/GitHub
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Time & Attendance System
+- Expense Tracker Web App
+- Hotel Management Dashboard
+- Course Registration Database System
+
+## Experience
+- Remote Data Analyst Intern at Excelerate
+- STEM Tutor at Jacksonville State University
+
+## Currently
+- Building backend and full-stack software projects
+- Seeking software engineering, backend development, and startup opportunities
+
+## Contact
+- LinkedIn: www.linkedin.com/in/swamireddy-ailuri
+- Email: Swamireddy2005@gmail.com
